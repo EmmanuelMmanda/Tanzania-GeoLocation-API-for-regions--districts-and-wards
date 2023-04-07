@@ -10,7 +10,7 @@
 The Tanzania GeoData API provides endpoints for accessing data on regions, districts, and wards in Tanzania. This API is useful for applications that need to display or analyze data on the administrative regions of Tanzania.
 
 ## Base URL
-The base URL for the Tanzania API is https://example.com/tanzania-api/.
+The base URL for the Tanzania API is https://tzgeodata.vercel.app/.
 
 ## Authentication
 Authentication is not required to access any of the endpoints in this API.
