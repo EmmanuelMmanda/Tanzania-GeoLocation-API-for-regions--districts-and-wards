@@ -16,6 +16,8 @@ def index(request):
             "regions_endpoint": "/api/v1/regions/",
             "districts_endpoint": "/api/v1/districts/",
             "wards_endpoint": "/api/v1/wards/",
+            "github_repo": "https://github.com/EmmanuelMmanda/Tanzania-GeoLocation-API-for-regions--districts-and-wards",
+            "vercel_deployment": "https://tzgeodata.vercel.app/"
         }]
 
     })
