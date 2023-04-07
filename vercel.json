@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "tzgeodata/wsgi.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "tzgeodata/wsgi.py"
+    }
+  ]
+}
