@@ -15,8 +15,9 @@ The base URL for the Tanzania API is https://tzgeodata.vercel.app/.
 ## Authentication
 Authentication is not required to access any of the endpoints in this API.
 
-Endpoints
+## Endpoints
 Fetching All Regions
+
 Endpoint: 
 ```
 GET /api/v1/regions/
