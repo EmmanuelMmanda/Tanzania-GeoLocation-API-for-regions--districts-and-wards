@@ -2,7 +2,7 @@
 [![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-black.svg?logo=github&style=flat-square)](https://github.com/EmmanuelMmanda) 
 [![API](https://img.shields.io/badge/API-v1.0-green)](http://api.example.com)
 [![Django](https://img.shields.io/badge/Django-3.2-green.svg)](https://docs.djangoproject.com/en/3.2/)
-[![Powered by Vercel](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg)](https://vercel.com?utm_source=example&utm_campaign=oss)
+[![Powered by Vercel](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg)](https://tzgeodata.vercel.app/)
 
 
 
